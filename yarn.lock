@@ -2047,9 +2047,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@TapSwap/uikit":
+"@pancakeswap-libs/uikit@tapswapdex/uikit":
   version "0.0.1"
-  resolved "https://codeload.github.com/TapSwap/uikit/tar.gz/c5635316f8505171b13273aa33cbef18ee385822"
+  resolved "https://codeload.github.com/tapswapdex/uikit/tar.gz/571c66a55ccd1a6e186ffbf76afb521baf50ad68"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
